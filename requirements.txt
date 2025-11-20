@@ -1,0 +1,9 @@
+ydata-profiling==4.16.1
+ipykernel==6.29.5
+inflection==0.5.1
+scikit-learn==1.7.0
+Boruta==0.4.3
+xgboost==3.0.2
+scikit-optimize==0.10.2
+Flask==3.1.2
+requests==2.32.4
